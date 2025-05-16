@@ -18,6 +18,23 @@ pip install segno shapely trimesh numpy mapbox_earcut
 
 ---
 
+
+## 🧠 Who this is for
+
+This script is meant for **makers comfortable with the command line** and basic Python environments.
+
+If you're unfamiliar with:
+- running `python` scripts from the terminal,
+- installing packages with `pip`,
+- or working with 3D files like `.stl`,
+
+If so, this project might not be the best starting point—it's deep nerd magic involving geometry, mesh generation, and QR encoding.
+
+For everyone else:  
+Welcome aboard. Let’s make sharks scannable. 🦈✨
+
+---
+
 ## 🛠 Usage
 
 ```bash
